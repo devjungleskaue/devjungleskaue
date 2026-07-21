@@ -29,4 +29,4 @@ I am open to remote Junior Full-Stack, Junior Backend, and Software Engineer I r
 
 ## Contact
 
-[GitHub @devjungleskaue](https://github.com/devjungleskaue)
+[LinkedIn](https://www.linkedin.com/in/kaue-natan-jungles/) · [GitHub @devjungleskaue](https://github.com/devjungleskaue)
