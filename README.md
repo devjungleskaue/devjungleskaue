@@ -1,41 +1,32 @@
-# Hi, I'm Kaue 👋
+# Kaue Natan Jungles
 
-Junior Full-Stack Developer from Santa Catarina, Brazil, building secure SaaS and business systems.
+Junior Full-Stack Developer in Santa Catarina, Brazil. I build business software and secure web applications with TypeScript, React, Next.js, Python, and FastAPI.
 
-I develop end-to-end applications with TypeScript, React, Next.js, Python and FastAPI, supported by relational databases, automated tests and reproducible Docker environments. I care about clear architecture, security, honest trade-offs and documentation that helps other people run the software.
+Most of my recent work sits between backend engineering and product work: permissions, database design, APIs, operational dashboards, and the UI people use to run the system.
 
-## Core stack
+## Main tools
 
-- **Frontend:** TypeScript, JavaScript, React, Next.js, HTML, CSS and Tailwind CSS
-- **Backend:** Python, FastAPI, Node.js, REST APIs and real-time communication
-- **Data:** PostgreSQL, MySQL, SQLite, SQLAlchemy, Alembic and Drizzle ORM
-- **Quality and delivery:** Docker, Docker Compose, GitHub Actions, pytest, Playwright and Git
-- **Security practices:** secure sessions, RBAC, CSRF protection, rate limiting, MFA/TOTP, audit trails and encryption
+- TypeScript, JavaScript, React, Next.js, HTML, CSS, Tailwind CSS
+- Python, FastAPI, Node.js, REST APIs, WebSockets
+- PostgreSQL, MySQL, SQLite, Drizzle ORM, SQLAlchemy, Alembic
+- Docker, GitHub Actions, pytest, Playwright, Git
 
-## Featured work
+I prefer small, explicit architectures over layers added for appearance. I write setup notes, tests, and production runbooks because a project is not finished when it works only on the developer's machine.
 
-### [Truckstar — Truck Workshop Management System](https://github.com/devjungleskaue/truckstar_projetointegrador_senac)
+## Selected work
 
-Python/MySQL desktop application for managing customers, employees, trucks and service orders. It includes role-based access, official Brazilian document validation, PDF generation, transactional email, automated tests and a one-click Windows setup flow.
+### [Secure real-time platform: private project case study](https://github.com/devjungleskaue/secure-realtime-platform-case-study)
 
-### [Café Aurora — Point-of-Sale Interface](https://github.com/devjungleskaue/trabalhoequipesenaclol)
+The source is private, so I wrote a public case study instead of publishing the application. It covers a Next.js and PostgreSQL system with WebSockets, row-level security, encrypted storage, role-specific interfaces, Docker deployment, threat modeling, and real screenshots captured with synthetic data.
 
-Responsive point-of-sale frontend built with HTML, CSS and vanilla JavaScript. It provides product search and categories, order management, discounts, payment methods, cash change calculation and daily sales totals stored locally.
+### [Truckstar: truck workshop management system](https://github.com/devjungleskaue/truckstar_projetointegrador_senac)
 
-## What I value
+A Python and MySQL desktop application for customers, employees, trucks, and service orders. It includes role-based access, Brazilian document validation, PDF generation, transactional email, tests, and a Windows setup flow.
 
-- Turning real operational problems into clear, testable software
-- Building security and maintainability into the first version
-- Documenting setup, architecture, limitations and production-readiness decisions
-- Collaborating asynchronously with direct, useful communication
+## What I am looking for
 
-## Currently
-
-- Open to remote **Junior Full-Stack Developer**, **Junior Backend Developer** and **Software Engineer I** opportunities
-- Interested in international teams working across the Americas
-- Building and improving practical software products
+I am open to remote Junior Full-Stack, Junior Backend, and Software Engineer I roles. I am comfortable working asynchronously in English or Portuguese with teams across the Americas.
 
 ## Contact
 
-- GitHub: [@devjungleskaue](https://github.com/devjungleskaue)
-
+[GitHub @devjungleskaue](https://github.com/devjungleskaue)
