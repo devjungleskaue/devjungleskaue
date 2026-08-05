@@ -10,7 +10,7 @@ I work in English and Portuguese. I am interested in junior full-stack, web, fro
 
 ### [Secure Real-Time Platform Case Study](https://github.com/devjungleskaue/secure-realtime-platform-case-study)
 
-This public case study documents the generalized design of a secure real-time application without publishing its private implementation. It describes my work on a Next.js and React application, API routes, PostgreSQL data model, authentication, a WebSocket service, encrypted storage, Docker deployment, and a security review loop. The published material covers the architecture, design decisions, verification strategy, and publication boundary. It leaves out the source code and product screenshots; I can discuss the published design and trade-offs in an interview.
+This is the project I would start with. It is a public case study rather than a source release. It follows a request from a Next.js and React app through API routes and PostgreSQL to a separate WebSocket service, then looks at session checks, MFA, encrypted storage, and row-level controls. It also covers failure paths, Docker deployment, tests, and the security review. Source, screenshots, and product-specific rules remain private, so the repository keeps the decisions that can be reviewed safely.
 
 ### [Morrow House](https://github.com/devjungleskaue/morrow-house-wordpress-case)
 
