@@ -1,37 +1,21 @@
-# Kauê Natan Jungles
+# Kaue Natan Jungles
 
-Web developer based in Santa Catarina, Brazil. I work across WordPress and WooCommerce, React and Next.js, and backend systems in Python and PostgreSQL.
+Junior full-stack and web developer. I build React and Next.js interfaces, Python and FastAPI services, and relational-data features. I also work on WordPress and WooCommerce delivery, testing, and documentation.
 
-I care about responsive interfaces, accessibility, clear setup notes, and code another developer can pick up. I work in English and Portuguese and am available for remote roles with international teams.
+I work in English and Portuguese. I am interested in junior full-stack, web, frontend, backend, and software-engineering work.
 
-[Portfolio](https://devjungleskaue.github.io/) · [LinkedIn](https://www.linkedin.com/in/kaue-natan-jungles-2218b8370/)
+[Portfolio](https://devjungleskaue.github.io/) · [LinkedIn](https://www.linkedin.com/in/kaue-natan-jungles/)
 
 ## Selected work
 
-### [Morrow House: custom WooCommerce storefront](https://github.com/devjungleskaue/morrow-house-wordpress-case)
+### [Secure Real-Time Platform Case Study](https://github.com/devjungleskaue/secure-realtime-platform-case-study)
 
-A conceptual home-goods store built with WordPress, WooCommerce, Elementor Free, PHP, and CSS. The public repository includes a custom theme and companion plugin, editable catalogue content, keyboard-friendly navigation, Docker setup, automated checks, and a disposable WordPress Playground demo. Payments and customer data are disabled.
+This public case study documents the generalized design of a secure real-time application without publishing its private implementation. It describes my work on a Next.js and React application, API routes, PostgreSQL data model, authentication, a WebSocket service, encrypted storage, Docker deployment, and a security review loop. The published material covers the architecture, design decisions, verification strategy, and publication boundary. It leaves out the source code and product screenshots; I can discuss the published design and trade-offs in an interview.
 
-[Open the temporary store](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/devjungleskaue/morrow-house-wordpress-case/v1.0.1/blueprint.json)
+### [Morrow House](https://github.com/devjungleskaue/morrow-house-wordpress-case)
 
-### [Secure real-time platform: architecture and security case](https://github.com/devjungleskaue/secure-realtime-platform-case-study)
+Morrow House is a fictional WordPress and WooCommerce reference build, not a client storefront. I built a custom theme and companion plugin around an editable catalogue and checkout flow. Payments, orders, customer data, shipping rules, and account flows are deliberately out of scope. The project includes accessibility contracts, a Docker setup, a temporary [WordPress Playground demo](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/devjungleskaue/morrow-house-wordpress-case/v1.1.0/blueprint.json), and automated setup and rendering checks.
 
-A public technical case for a private Next.js and PostgreSQL system. It documents WebSockets, row-level security, encrypted storage, role-specific interfaces, Docker deployment, threat modelling, and the decisions behind those boundaries without publishing private source or client data.
+### [Truckstar](https://github.com/devjungleskaue/truckstar_projetointegrador_senac)
 
-### [Truckstar: truck workshop management system](https://github.com/devjungleskaue/truckstar_projetointegrador_senac)
-
-A Python and MySQL desktop application for customers, employees, trucks, and service orders. It includes role-based access, Brazilian document validation, PDF generation, transactional email, tests, and a Windows setup flow.
-
-## Tools I use
-
-- **Web:** WordPress, WooCommerce, Elementor Free, PHP, HTML, CSS, JavaScript, TypeScript, React, Next.js
-- **Backend and data:** Python, FastAPI, Node.js, REST APIs, WebSockets, PostgreSQL, MySQL, SQLite
-- **Delivery and testing:** Docker, GitHub Actions, pytest, Playwright, Git
-
-## What I am looking for
-
-I am open to remote Web Developer, Front-End Developer, WordPress Developer, and Junior Full-Stack roles. I work in English and Portuguese with teams across the Americas and other international time zones.
-
-## Contact
-
-[Portfolio](https://devjungleskaue.github.io/) · [LinkedIn](https://www.linkedin.com/in/kaue-natan-jungles-2218b8370/) · [GitHub @devjungleskaue](https://github.com/devjungleskaue)
+A Python desktop project for truck-workshop operations. Its repository includes a Windows setup workflow, configuration templates, and automated tests so the application can be set up reproducibly.
